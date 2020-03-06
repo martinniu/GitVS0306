@@ -11,6 +11,7 @@ namespace GitVS0306
         {
             Console.WriteLine("Hello word");
             Console.WriteLine("Hello word");
+            Console.WriteLine("Hello word");
 
         }
     }
